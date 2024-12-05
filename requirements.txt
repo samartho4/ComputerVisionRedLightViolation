@@ -1,7 +1,0 @@
-
-opencv-python
-matplotlib
-pytesseract
-mysql-connector-python
-numpy
-Pillow
